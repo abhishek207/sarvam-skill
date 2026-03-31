@@ -1,18 +1,8 @@
 ---
 name: sarvam-ai
-description: Sarvam AI expert guidance for building multilingual Indian language AI applications. Use when working with Sarvam APIs for speech-to-text, text-to-speech (Bulbul v3), translation, transliteration, language detection, chat completions, or building real-time voice agents for Indian languages. Trigger on: "sarvam", "bulbul", "saarika", "saaras", "mayura", "Indian language AI", "Hindi TTS", "Indian voice agent", "multilingual voice", "Indic language", "sarvamai".
+description: 'Sarvam AI expert guidance for building multilingual Indian language AI applications. Use when working with Sarvam APIs for speech-to-text, text-to-speech (Bulbul v3), translation, transliteration, language detection, chat completions, or building real-time voice agents for Indian languages. Trigger on: sarvam, bulbul, saarika, saaras, mayura, Indian language AI, Hindi TTS, Indian voice agent, multilingual voice, Indic language, sarvamai.'
 metadata:
   version: 1.0.0
-  docs:
-    - "https://docs.sarvam.ai/api-reference-docs/introduction"
-    - "https://docs.sarvam.ai/api-reference-docs/getting-started/models"
-  pathPatterns:
-    - "**/*sarvam*"
-    - "**/*bulbul*"
-    - "**/*saarika*"
-  importPatterns:
-    - "sarvamai"
-    - "@sarvam"
 ---
 
 # Sarvam AI
